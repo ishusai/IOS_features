@@ -17,3 +17,5 @@ Author: Iswarya
 7. video call feature
 
 8.Adding game feature
+
+9.Adding group feature which includes 100 users.
