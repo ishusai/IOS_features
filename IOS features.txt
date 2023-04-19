@@ -8,7 +8,7 @@ Author: Iswarya
 
 3.Last seen code
 
-4. Attachments(Image) code
+4. Attachments(Image,documents) code
 
 5.Hiding the last seen
 
