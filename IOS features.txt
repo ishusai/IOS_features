@@ -11,3 +11,7 @@ Author: Iswarya
 4. Attachments(Image) code
 
 5.Hiding the last seen
+
+6. audio call feature
+
+7. video call feature
